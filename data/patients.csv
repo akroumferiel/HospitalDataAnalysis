@@ -1,0 +1,5 @@
+"PatientID,Age,Sex,BloodPressure,Cholesterol,Diagnosis" 
+"1,45,M,130,200,Healthy" 
+"2,54,F,150,240,Hypertension" 
+"3,39,M,120,180,Healthy" 
+"4,65,F,170,260,Hypertension" 
